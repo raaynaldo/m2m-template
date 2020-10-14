@@ -21,3 +21,5 @@ We've provided you with a console that you can use to test your code. Write all 
 - **TEST YOUR CODE!!!**  Code a little, test a little.  You should never have to wonder whether or not something works.  You should KNOW and be able to PROVE it to someone else (can be as simple as running the method in a pry / console and verifying it does what you want it to do)
 
 - If you finish early, think about adding more methods or an additional related model!  We can help come up with ideas for that as well.
+
+[![Run on Repl.it](https://repl.it/badge/github/raaynaldo/m2m-template)](https://repl.it/github/raaynaldo/m2m-template)
